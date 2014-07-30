@@ -3,7 +3,7 @@ Title: Make an R function available in the Galaxy web platform
 Description: Given an R function and its manual page, make the documented
     function available in Galaxy.
 Version: 1.9.1
-Videos: http://youtube.com/mycoolvideo
+Videos: http://vimeo.com/mycoolvideo
 Author: Dan Tenenbaum
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 biocViews: Infrastructure
